@@ -23,6 +23,22 @@ body {
     font-size: 24px;
   }
 
+  p{
+    text-align: center;
+  }
+
+  h2{
+    text-align: center;
+  }
+
+  .project-link {
+    display: block;
+    text-align: center;
+    margin: 0 20px;
+
+
+  }
+
  
 }
 
